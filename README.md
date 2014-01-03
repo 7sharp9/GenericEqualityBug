@@ -1,5 +1,5 @@
-GenericEqualityBug
-==================
+Generic Equality Bug
+====================
 These are unit tests for iOS that show a failure in generic equality in Arrays  
 e.g [|0|] = [|0|] should equate to true, however, this throws a null reference exception while running on iOS hardware:
 
