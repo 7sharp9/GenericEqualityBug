@@ -122,7 +122,7 @@
       <HintPath>..\..\..\..\..\Developer\MonoTouch\usr\lib\mono\2.1\mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="FSharp.Core">
-      <HintPath>..\..\..\code\fsharp\lib\debug\2.1monotouch\FSharp.Core.dll</HintPath>
+      <HintPath>..\..\..\..\..\Developer\MonoTouch\usr\lib\mono\2.1\FSharp.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
